@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Ranvirdeshmukh
 - 🚀 I’m currently building an app called Meme Me using Swift programming language in Xcode. This is a social media app which will be launching on Dartmouth's campus soon.
 - 🌱 I’m looking to collaborate on interesting projects in the field of app and web development.
-- 📫 How to reach me [Ranvir Deshmukh on LinkedIn]((https://www.linkedin.com/in/ranvir-deshmukh-209706199))
+- 📫 How to reach me [Ranvir Deshmukh on LinkedIn](https://www.linkedin.com/in/ranvir-deshmukh-209706199)
 
 ### Languages I'm proficient in:
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,6 +19,7 @@
 
 ### Tech Stacks I'm proficient in:
 ![React](https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=%2361DAFB)
