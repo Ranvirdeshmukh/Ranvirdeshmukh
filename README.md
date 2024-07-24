@@ -44,18 +44,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-%239999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-%239999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
-### Pinned Repositories:
-- **[Ranvirdeshmukh](https://github.com/Ranvirdeshmukh/Ranvirdeshmukh)**: Config files for my GitHub profile.
-- **[DartMatch]((https://github.com/Ranvirdeshmukh/DartMatch))**: A Meme Me pre-release initiative.
-- **[Tiny-Search-Engine]((https://github.com/Ranvirdeshmukh/Tiny-Search-Engine))**: Some project details.
-- **[React-Native-EC](https://github.com/Ranvirdeshmukh/React-Native-EC)**: Extra Credits.
-- **[DartCourseReview](https://github.com/Ranvirdeshmukh/DartCourseReview)**: Python project details.
-- **[CourseMe](https://github.com/Ranvirdeshmukh/CourseMe)**: Dartmouth's first Gen-AI-based course selection and major planning website.
-- **[ShareIt](https://github.com/Ranvirdeshmukh/ShareIt)**: Recipe sharing platform with custom APIs for CRUD operations.
 
-### Leadership and Personal Experiences
-- **Dartmouth Student Government**: Senator, South House (September 2022 - Present)
-- **Magnuson Centre for Entrepreneurship at Dartmouth**: Leadership Board Chairperson (March 2023 - Present)
 
 ### Interests and Activities
 - Producing YouTube videos - [Dartmouth is Happy]((https://youtu.be/4FNZafeLKlY?si=GzQjaxeqpHL3tpsi))
