@@ -47,7 +47,7 @@
 ### Pinned Repositories:
 - **[Ranvirdeshmukh](https://github.com/Ranvirdeshmukh/Ranvirdeshmukh)**: Config files for my GitHub profile.
 - **[DartMatch](https://github.com/Ranvirdeshmukh/DartMatch)**: A Meme Me pre-release initiative.
-- **[RetroTunes](https://github.com/Ranvirdeshmukh/RetroTunes)**: Some project details.
+- **[Tiny-Search-Engine]((https://github.com/Ranvirdeshmukh/Tiny-Search-Engine))**: Some project details.
 - **[React-Native-EC](https://github.com/Ranvirdeshmukh/React-Native-EC)**: Extra Credits.
 - **[DartCourseReview](https://github.com/Ranvirdeshmukh/DartCourseReview)**: Python project details.
 - **[CourseMe](https://github.com/Ranvirdeshmukh/CourseMe)**: Dartmouth's first Gen-AI-based course selection and major planning website.
