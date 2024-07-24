@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m @Ranvirdeshmukh
-- 🚀 I’m currently building an app called Meme Me using Swift programming language in Xcode. This is a social media app which will be launching on Dartmouth's campus soon.
-- 🌱 I’m looking to collaborate on interesting projects in the field of app and web development.
-- 📫 How to reach me [Ranvir Deshmukh on LinkedIn](https://www.linkedin.com/in/ranvir-deshmukh-209706199)
+-  I write computer programs and make videos.
+-  How to reach me [Ranvir Deshmukh on LinkedIn](https://www.linkedin.com/in/ranvir-deshmukh-209706199)
 
 ### Languages I'm proficient in:
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
